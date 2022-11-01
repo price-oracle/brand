@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="537px" viewBox="0 0 1440 537" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg/square-exclusions-light</title>
+    <g id="square-exclusions-light" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="1440" height="537"></rect>
+        <g id="Desktop---1" transform="translate(-65.000000, -120.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <rect id="Rectangle" style="mix-blend-mode: exclusion;" transform="translate(1348.211808, 208.275600) rotate(-36.632700) translate(-1348.211808, -208.275600) " x="1243.71181" y="103.7756" width="209" height="209"></rect>
+            <rect id="Rectangle" style="mix-blend-mode: exclusion;" transform="translate(572.212185, 133.275600) rotate(-70.601800) translate(-572.212185, -133.275600) " x="467.712185" y="28.7755999" width="209" height="209"></rect>
+            <rect id="Rectangle" style="mix-blend-mode: exclusion;" transform="translate(708.400982, 179.464779) rotate(-21.245600) translate(-708.400982, -179.464779) " x="635.470482" y="106.534279" width="145.861" height="145.861"></rect>
+            <rect id="Rectangle" style="mix-blend-mode: exclusion;" transform="translate(1451.804827, 391.869213) rotate(-63.313300) translate(-1451.804827, -391.869213) " x="1379.70133" y="319.765713" width="144.207" height="144.207"></rect>
+            <rect id="Rectangle" style="mix-blend-mode: exclusion;" transform="translate(118.057471, 373.376823) rotate(-63.313300) translate(-118.057471, -373.376823) " x="69.6003708" y="324.919723" width="96.9142" height="96.9142"></rect>
+            <rect id="Rectangle" style="mix-blend-mode: exclusion;" transform="translate(1087.804490, 196.868535) rotate(-7.698500) translate(-1087.804490, -196.868535) " x="996.47849" y="105.542535" width="182.652" height="182.652"></rect>
+            <rect id="Rectangle" style="mix-blend-mode: exclusion;" transform="translate(295.736490, 183.800315) rotate(-7.698500) translate(-295.736490, -183.800315) " x="204.41049" y="92.4743154" width="182.652" height="182.652"></rect>
+            <rect id="Rectangle" style="mix-blend-mode: exclusion;" transform="translate(899.654806, 165.719004) rotate(-68.342400) translate(-899.654806, -165.719004) " x="847.550806" y="113.615004" width="104.208" height="104.208"></rect>
+            <rect id="Rectangle" style="mix-blend-mode: exclusion;" transform="translate(252.857675, 338.921745) rotate(-24.559300) translate(-252.857675, -338.921745) " x="222.779875" y="308.843945" width="60.1556" height="60.1556"></rect>
+            <rect id="Rectangle" style="mix-blend-mode: exclusion;" transform="translate(83.885192, 215.949224) rotate(-112.647000) translate(-83.885192, -215.949224) " x="19.750192" y="151.814224" width="128.27" height="128.27"></rect>
+            <rect id="Rectangle" style="mix-blend-mode: exclusion;" transform="translate(984.698389, 208.762190) rotate(-46.290100) translate(-984.698389, -208.762190) " x="963.692839" y="187.75664" width="42.0111" height="42.0111"></rect>
+            <rect id="Rectangle" style="mix-blend-mode: exclusion;" transform="translate(1482.457066, 283.521350) rotate(-28.438800) translate(-1482.457066, -283.521350) " x="1466.62767" y="267.69195" width="31.6588" height="31.6588"></rect>
+            <rect id="Rectangle" style="mix-blend-mode: exclusion;" transform="translate(1484.734450, 538.798002) rotate(-66.641900) translate(-1484.734450, -538.798002) " x="1473.52515" y="527.588702" width="22.4186" height="22.4186"></rect>
+            <rect id="Rectangle" style="mix-blend-mode: exclusion;" transform="translate(114.026573, 512.090828) rotate(-26.429900) translate(-114.026573, -512.090828) " x="102.817273" y="500.881528" width="22.4186" height="22.4186"></rect>
+            <rect id="Rectangle" style="mix-blend-mode: exclusion;" transform="translate(1439.459541, 467.520673) rotate(-78.395700) translate(-1439.459541, -467.520673) " x="1423.63014" y="451.691273" width="31.6588" height="31.6588"></rect>
+            <rect id="Rectangle" style="mix-blend-mode: exclusion;" transform="translate(74.457066, 457.521350) rotate(-28.438800) translate(-74.457066, -457.521350) " x="58.6276661" y="441.69195" width="31.6588" height="31.6588"></rect>
+            <rect id="Rectangle" style="mix-blend-mode: exclusion;" transform="translate(198.457066, 147.520850) rotate(-28.438800) translate(-198.457066, -147.520850) " x="182.627666" y="131.69145" width="31.6588" height="31.6588"></rect>
+        </g>
+    </g>
+</svg>

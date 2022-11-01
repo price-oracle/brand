@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="400px" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg/profile-dark</title>
+    <g id="profile-dark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M300,100 L100,100 L100,300 L300,300 L300,100 Z M271,129 L271,271 L129,271 L129,129 L271,129 Z" id="Rectangle" fill="#FFFFFF" fill-rule="nonzero"></path>
+        <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="215" y="155" width="30" height="30"></rect>
+    </g>
+</svg>
